@@ -10,3 +10,8 @@ img {
     margin: auto;
     display: block;
 }
+footer {
+    text-align: center;
+    font-size: large;
+    color: blue;
+}
