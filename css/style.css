@@ -12,8 +12,18 @@ img {
 }
 footer {
     text-align: center;
-    font-size: large;
     color: blue;
     padding: 10px;
     background-color: bisque;
+}
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
 }
